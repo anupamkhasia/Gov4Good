@@ -4,7 +4,11 @@ Gov4Good is a solution based on Dynamics 365 CRM platform. IT allows government 
 
 ### Contributors
 Anupam Khasia
+
 Vaishali Aghera
+
 Arpit Shah
+
 Hardik Vadaria
+
 Sourabh Kulkarni
